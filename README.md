@@ -1,4 +1,0 @@
-# HairCutOrganizer
-TEst
-Hallo
-test
